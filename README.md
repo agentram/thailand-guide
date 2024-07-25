@@ -1,6 +1,6 @@
 # Thailand 🇹🇭
 
-- [Bangkok Travel Guide 🌆🇭](#bangkok-travel-guide-)
+- [Bangkok Travel Guide 🌆](#bangkok-travel-guide-)
   - [Museums and Art Galleries 🎨](#museums-and-art-galleries-)
   - [Cafes and Restaurants 🍽️](#cafes-and-restaurants-)
   - [Attractions 🌟](#attractions-)
